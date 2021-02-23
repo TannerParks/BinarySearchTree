@@ -1,1 +1,2 @@
 # BinarySearchTree
+I was having a really difficult time getting the remove_node function to display the nodes after one had been deleted so I ended up using a chunk of code I found online to fix mine. I think I was pretty close to getting it on my own but not enough to not mention it here. Also in my design PDF, I left in the drawings and other notes I made while working on the assignment so you can sort of see my thought process for some of the things I did.
